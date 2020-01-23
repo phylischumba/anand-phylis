@@ -1,0 +1,10 @@
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    image-rendering: center;
+    
+}
+body{
+    margin: auto;
+}
